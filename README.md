@@ -7,6 +7,10 @@ This is a simple password generator web application created with HTML, CSS, and 
 - Generate strong passwords with options for length and character sets.
 - Copy generated passwords to your clipboard with one click.
 
+## Try it Online
+
+You can try out this password generator online at [https://passwordgenerator.egrimilan.hu/](https://passwordgenerator.egrimilan.hu/).
+
 ## Usage
 
 1. Open the `index.html` file in a web browser.
